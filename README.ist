@@ -1,0 +1,9 @@
+This project is a part of a (temp private) project. The goal of this project is to maintain The NGINX web server as a TCP/IP hardware proxy that supports printing functionalities over the cloud without touching the network configurations nor firewall.
+
+
+TO DO ---------
+
+Implementing private keys and public keys to the hardware proxy.
+Implementing a modular ARCH for extending the the functionalities for things other than printers.
+
+Thank you for interest in my project.
